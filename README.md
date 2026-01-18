@@ -1,29 +1,29 @@
 # Classora
 
 <div align="center">
-  <img src="assets/images/dashboard-preview.png" alt="Aperçu du Dashboard Classora" width="800" />
-  <p><em>Interface moderne et intuitive de Classora</em></p>
+  <img src="assets/images/dashboard-preview.png" alt="Classora Dashboard Preview" width="800" />
+  <p><em>Modern and intuitive Classora interface</em></p>
 </div>
 
-Plateforme intégrée de gestion scolaire pour les enseignants, combinant planification des cours, suivi pédagogique, automatisation des tâches administratives et collaboration entre enseignants.
+An integrated school management platform for teachers, combining lesson planning, educational tracking, administrative task automation, and collaboration between teachers.
 
-## 🚀 Architecture technique
+## 🚀 Technical Architecture
 
-- **Backend**: Django avec Django REST Framework et PostgreSQL
+- **Backend**: Django with Django REST Framework and PostgreSQL
 - **Frontend**: Angular 19
-- **Authentification**: JWT (JSON Web Tokens)
+- **Authentication**: JWT (JSON Web Tokens)
 
-## 📚 Modules principaux
+## 📚 Main Modules
 
-- **Users**: Gestion des utilisateurs, rôles et permissions
-- **Calendar**: Planification, emploi du temps et synchronisation
-- **Classroom_diary**: Journal de classe
-- **Courses**: Création de séquences pédagogiques et ressources
-- **Students**: Suivi des élèves, groupes et performances
-- **Grades**: Évaluations, notes et compétences
-- **Communications**: Messagerie école-parents-enseignants
-- **Collaboration**: Travail collaboratif entre enseignants
-- **Marketplace**: Partage et acquisition de ressources pédagogiques
-- **Core**: Services transversaux, IA et intégrations
-- **Billing**: Gestion des abonnements et paiements
-- **Support**: Assistance aux utilisateurs et FAQ
+- **Users**: User management, roles, and permissions
+- **Calendar**: Planning, scheduling, and synchronization
+- **Classroom_diary**: Class diary
+- **Courses**: Creation of teaching sequences and resources
+- **Students**: Student tracking, groups, and performance
+- **Grades**: Assessments, grades, and competencies
+- **Communications**: School-parents-teachers messaging
+- **Collaboration**: Collaborative work between teachers
+- **Marketplace**: Sharing and acquiring educational resources
+- **Core**: Cross-functional services, AI, and integrations
+- **Billing**: Subscription and payment management
+- **Support**: User assistance and FAQ
